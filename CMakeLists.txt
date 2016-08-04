@@ -1,4 +1,4 @@
-project(sort_HK_dataset C CXX)
+project(sort_dataset C CXX)
 cmake_minimum_required(VERSION 2.8)
 
 set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -std=c++11")
